@@ -1,0 +1,2 @@
+! Turn off the annoying pink gradient on the YouTube play play progress bar.
+youtube.com##.html5-play-progress, .ytp-play-progress:style(background: #F03 !important)
