@@ -3,6 +3,7 @@
 ! License: https://raw.githubusercontent.com/IcyMidnight/filter-list/refs/heads/main/LICENSE
 ! Description: Filters to make the internet less annoying for me.
 ! Note: No promises!
+! Version: 1
 
 ! Turn off the annoying pink gradient on the YouTube play play progress bar.
 youtube.com##.html5-play-progress, .ytp-play-progress:style(background: #F03 !important)
